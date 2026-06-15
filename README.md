@@ -12,6 +12,9 @@ Small sellers across Tier 2/3 India face friction when listing products online:
 
 ## Solution
 
+<img width="1440" height="960" alt="image" src="https://github.com/user-attachments/assets/56aa5b4d-e224-4f22-a8bf-780ca56112b6" />
+
+
 SahayakAI is an agentic assistant that combines **fraud detection** with **listing generation**:
 
 1. **Seller uploads a product photo**
